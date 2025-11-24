@@ -69,6 +69,3 @@ The repository is organized by Data Structure and Algorithm type for easy naviga
 
 Feel free to **fork** this repository, suggest improvements, or submit solutions to problems.
 
-### License
-
-This project is licensed under the MIT License.
